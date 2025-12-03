@@ -1,2 +1,2 @@
-**NOTICE:** Open OnDemand now installs Interactive Apps from a new source.<br>
-Please reach out with any issues: rchelp@rc.fas.harvard.edu
+**NOTICE:** We've migrated the source code repositories for OOD's Interactive Applications to [GitHub](https://github.com/search?q=org%3Afasrc+ood-&type=repositories).<br>
+While we do not anticipate any user-facing interruptions, please reach out if you are experiencing issues: rchelp@rc.fas.harvard.edu
