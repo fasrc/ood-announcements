@@ -1,2 +1,3 @@
-**NOTICE** The university and FASRC will close for the winter break 12/24/25-1/4/26<br>
-OOD and the clusters will be available but tickets will not be responded to until 1/5/2026.
+**NOTICE** OOD will be upgraded from version 3 to version 4 at 8AM on Wednesday 1/7/26<br>
+Running sessions will not be terminated.<br>
+You may notice small improvements, especially to the files editor.
