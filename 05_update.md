@@ -1,1 +1,0 @@
-**OOD Scheduled Update:** We plan to update OOD from 4.0.7 to 4.1.4 on the morning of Thursday, April 30. We do not expect any interruption to users' work, but if you experience an issue please reach out to us at rchelp@rc.fas.harvard.edu.
