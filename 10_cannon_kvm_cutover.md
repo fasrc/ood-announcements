@@ -1,1 +1,0 @@
-**OOD Minor Infrastructure Maintenance**<br>We have COMPLETED minor changes to the servers on which OOD runs at 8AM on Thursday November 12.<br>We do not expect any interruption to users' work, but if you experience an issue please reach out to us at rchelp@rc.fas.harvard.edu.
